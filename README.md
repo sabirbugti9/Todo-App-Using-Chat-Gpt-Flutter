@@ -1,16 +1,5 @@
-# todo_app
+TODO APP USING CHAT GPT FLUTTER
 
-A new Flutter project.
+[Youtube Watch](https://www.youtube.com/watch?v=w26zTFhy7xg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![black_friday_web_banner_25](https://user-images.githubusercontent.com/77012663/232320872-3f765724-6f61-4103-ba9f-04898d4d570c.png)
